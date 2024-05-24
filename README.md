@@ -69,16 +69,17 @@ npm start
 Après l'installation, accédez à http://localhost:3000 pour le front-end web admin ou utilisez l'application mobile pour une interaction en temps réel avec les zones.
 
 ## Dépendances
-React ^17.0.2
-React Native ^0.63.4
-Node.js ^14.17.0
-MongoDB ^4.4.6
-Express ^4.17.1
+- React ^17.0.2
+- React Native ^0.63.4
+- Node.js ^14.17.0
+- MongoDB ^4.4.6
+- Express ^4.17.1
+  
 ## Video Démonstration
 
 ## Contribuer
-KELLALI Saad
-SIDKI Reda
-ELGHOUL Sanaa
-BENYAHYA Nour
+- KELLALI Saad
+- SIDKI Reda
+- ELGHOUL Sanaa
+- BENYAHYA Nour
 
