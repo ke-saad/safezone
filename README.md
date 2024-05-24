@@ -44,7 +44,7 @@ Développé avec Node.js et MongoDB, il s'occupe de :
 - Traiter les requêtes API pour la gestion des zones et des comptes utilisateurs.
 - Stocker et récupérer les données des zones et des utilisateurs de manière sécurisée.
 
-  ## Installation
+## Installation
 ```bash
 # Cloner le dépôt
 git clone https://exemple.com/geoguard.git
@@ -63,3 +63,22 @@ npm start
 
 # Lancer l'application frontend web dans un autre terminal
 npm start
+```bash
+
+## Utilisation
+Après l'installation, accédez à http://localhost:3000 pour le front-end web admin ou utilisez l'application mobile pour une interaction en temps réel avec les zones.
+
+## Dépendances
+React ^17.0.2
+React Native ^0.63.4
+Node.js ^14.17.0
+MongoDB ^4.4.6
+Express ^4.17.1
+## Video Démonstration
+
+## Contribuer
+KELLALI Saad
+SIDKI Reda
+ELGHOUL Sanaa
+BENYAHYA Nour
+
