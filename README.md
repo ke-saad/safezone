@@ -16,7 +16,7 @@ GeoGuard est une application dédiée à la surveillance en temps réel des zone
 - [Contribuer](#contribuer)
 
  ## Aperçu
-Elle vise aussi à fournir une plateforme intuitive pour la gestion des zones de sécurité grâce à une cartographie détaillée et des notifications en temps réel. Elle permet aux utilisateurs de visualiser rapidement les zones sécurisées (vertes) et dangereuses (rouges) sur une carte interactive.
+GeoGuard vise aussi à fournir une plateforme intuitive pour la gestion des zones de sécurité grâce à une cartographie détaillée et des notifications en temps réel. Elle permet aux utilisateurs de visualiser rapidement les zones sécurisées (vertes) et dangereuses (rouges) sur une carte interactive.
 
 ## Technologies Utilisées
 - **Frontend Web**: React JS
