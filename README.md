@@ -34,7 +34,7 @@ Construit avec React JS, ce front-end permet aux administrateurs de :
   - Créer de nouveaux comptes utilisateurs et gérer les rôles d'accès.
   - Superviser les activités des utilisateurs et leur accès aux différentes zones.
 
-### Frontend Mobile
+### Frontend Mobile (Utilisateur)
 Utilise React Native pour fournir une application mobile aux utilisateurs finaux, permettant :
 - La visualisation des zones sécurisées et dangereuses.
 - La réception des alertes en temps réel en fonction de leur localisation.
