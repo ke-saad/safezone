@@ -12,7 +12,7 @@ GeoGuard est une application dédiée à la surveillance en temps réel des zone
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Video Demonstration](#Video-Demonstration)
-- [Dépendances](#dépendances)
+- [Dépendancies](#dépendancies)
 - [Contribuer](#contribuer)
 
  ## Aperçu
