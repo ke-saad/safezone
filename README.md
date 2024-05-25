@@ -1,5 +1,5 @@
-# safezone-mobile
-![image](https://github.com/ke-saad/safezone-mobile/assets/132830438/023a375c-bb8a-42c7-b80f-9ebc05b874ca)
+# GeoGuard
+
 
 GeoGuard est une application dédiée à la surveillance en temps réel des zones sécurisées et dangereuses, utilisant la géolocalisation pour améliorer la sécurité des utilisateurs. Notre technologie aide à identifier et notifier les utilisateurs lorsqu'ils entrent dans des zones à risque, augmentant ainsi la prévention et la réactivité en matière de sécurité.
 ## Table des Matières
@@ -77,9 +77,21 @@ Après l'installation, accédez à http://localhost:3000 pour le front-end web a
   
 ## Video Démonstration
 
-## Contribuer
-- KELLALI Saad
+# Partie administrative (React JS):
+https://github.com/ke-saad/safezone/assets/121399042/0edb682d-2d27-4a05-9a3e-60082e39b99b
+
+
+# Partie Mobile (React Native):
+https://github.com/ke-saad/safezone/assets/121399042/c188c86d-12aa-4aa2-ba3b-491a5671b2bc
+
+
+
+
+
+
+## Contributeurs
+- KELLALI Saâd
 - SIDKI Reda
-- ELGHOUL Sanaa
+- ELGHOUL Sanaà
 - BENYAHYA Nour
 
