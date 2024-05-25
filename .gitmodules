@@ -4,6 +4,3 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/ke-saad/safezone-server.git
-[submodule "mobile"]
-	path = mobile
-	url = https://github.com/ke-saad/safezone-mobile.git
