@@ -1,9 +1,12 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/ke-saad/safezone-client.git
+	branch = main 
 [submodule "server"]
 	path = server
 	url = https://github.com/ke-saad/safezone-server.git
+	branch = main
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/ke-saad/safezone-mobile.git
+	branch = main
